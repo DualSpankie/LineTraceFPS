@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_LineTrace_FPS\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_LineTrace_FPS\\MyProject\\Source\\MyProject.Target.cs",
+		"C:\\Users\\Benjamin\\Documents\\Unreal Projects\\CPP_LineTrace_FPS\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
